@@ -1,0 +1,7 @@
+dash==2.7.1
+ash-bio==1.0.2
+flask==1.1.2 
+plotly==5.9.0  
+dash-player==1.0.6  
+pandas
+gunicorn
